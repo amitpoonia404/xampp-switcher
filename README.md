@@ -1,4 +1,8 @@
-I assume you're trying to run 2 xampp versions togather with different PHP versions. like one with PHP 5.xx and one with PHP 7.xx.
+#xampp-switcher
+
+This simple BASH script will be handy if you're planning to install 2 xampp versions togather on a Linux system and easily switch b/w them.
+
+I'm assumming you're trying to run 2 xampp versions togather with different PHP versions. like one with PHP 5.xx and one with PHP 7.xx.
 By default on many linux distributions the default installation path of xampp is /opt/lampp.
 So this script basically renames this directory according to our needs. Let's start..
 
@@ -12,7 +16,4 @@ Rest this script will take care of. Just run it..
 4. sudo ./xampp.sh
 
 Modify and use this according to your needs.
-=========================================================Cheers!!===========================================================
-
-
-
+===========================================Cheers!!============================================
