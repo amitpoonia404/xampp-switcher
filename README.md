@@ -12,4 +12,4 @@ Rest this script will take care of. Just run it..
 4. sudo ./xampp.sh
 
 Modify and use this according to your needs.
-===========================================Cheers!!============================================
+=================================Cheers!!===================================
